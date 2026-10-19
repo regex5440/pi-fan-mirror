@@ -6,7 +6,7 @@ SCRIPT_DEST=/usr/local/bin
 SCRIPT_NAME=fan_led_sync.sh
 
 SERVICE_DEST=/etc/systemd/system
-SERVICE_NAME=fan-led-sync.service
+SERVICE_NAME=fan_led_sync.service
 
 echo "Setting up to $SCRIPT_DEST"
 

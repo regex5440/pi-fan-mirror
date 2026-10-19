@@ -6,4 +6,4 @@ Sync Rpi's PWM fan speed with GPIO outputs.
 
 1. Clone/Copy entire repo and open it.
 2. Make the `install.sh`  executable by running `sudo chmod +x ./install.sh` from within the folder.
-3. That's it!
+3. Run the script with `./install.sh`. That's it!
